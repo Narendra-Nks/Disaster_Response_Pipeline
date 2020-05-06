@@ -24,3 +24,7 @@ The aim of this project is to build a machine learning pipeline to categorize em
 1. save app folder in current working directory
 2. run following command in the app directory: ```python run.py```
 3. go to http://0.0.0.0:3001/
+
+
+## Acknowledgements
+This project was completed as part of [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
