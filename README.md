@@ -13,14 +13,14 @@ The aim of this project is to build a machine learning pipeline to categorize em
 
 ## Instructions
 **run _process_data.py_**
-1. save the data folder in the current working directory and process_data.py in the data folder
+1. save the data folder in the current working directory and ```process_data.py``` in the data folder
 2. from the current working directory, run the following command: ```python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db```
 
 **run _train_classifier.py_**
-1. in current working directory, create a folder called 'models' and save train_classifier.py there
-2. from current working directory, run the following command: python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+1. in current working directory, create a folder called 'models' and save ```train_classifier.py``` there
+2. from current working directory, run the following command: ```python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl```
 
 **run web app**
-1. save app folder in the current working directory
-2. run following command in the app directory: _python run.py_
+1. save app folder in current working directory
+2. run following command in the app directory: ```python run.py```
 3. go to http://0.0.0.0:3001/
