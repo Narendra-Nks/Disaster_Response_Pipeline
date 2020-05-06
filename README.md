@@ -27,4 +27,4 @@ The aim of this project is to build a machine learning pipeline to categorize em
 
 
 ## Acknowledgements
-This project was completed as part of [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+This project was completed as a part of [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
