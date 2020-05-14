@@ -1,4 +1,4 @@
-# Disaster Response Pipelinee Web App with Figure Eight
+# Disaster Response Pipeline Web App with Figure Eight
 
 ## Project Overview
 The aim of this project is to build a machine learning pipeline to categorize emergency messages based on the needs communicated by the sender.
