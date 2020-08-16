@@ -27,5 +27,5 @@ The aim of this project is to build a machine learning pipeline to categorize em
 3. go to http://0.0.0.0:3001/
 
 
-## Acknowledgements
+## Acknowledgement
 This project was completed as a part of [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
